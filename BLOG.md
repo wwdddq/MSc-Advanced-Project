@@ -5,8 +5,8 @@
 
 在当今的网络空间中，信息传播无处不在，我们的意识和事物的评判标准受到了自身认知和互联网的双重影响。我们往往倾向于相信互联网上呈现的信息，将其视为客观事实。但这背后隐藏着一种主观性，即媒介和技术如何塑造我们的观点和影响我们的判断。而信息传播的重要媒介之一是图像，在机器学习中关于图像生成的技术更是数不胜数。
 
-- Is everything connected?
-这篇文章是Endre Dányi博士为2017年4月1日的Lichter Filmfest准备的草稿，标题为“Is everything connected?” 文章探讨了Adam Curtis在2016年导演的BBC纪录片《HyperNormalisation》。纪录片于美国最后一次总统选举前几天发布，讲述了自1970年代以来，西方观众生活在一个由权力欲望膨胀者精心制造的虚假现实中的阴谋。
+### Is everything connected?
+文章探讨了Adam Curtis在2016年导演的BBC纪录片《HyperNormalisation》。纪录片于美国最后一次总统选举前几天发布，讲述了自1970年代以来，西方观众生活在一个由权力欲望膨胀者精心制造的虚假现实中的阴谋。
 
 文章指出，纪录片本身也起到了一种阴谋论的作用：它通过将各种图像和档案影像以近乎超现实的方式并置，声称只要跟随连接——这些连接只需几次点击就能到达——我们就能完全理解从叙利亚内战到英国脱欧，再到特朗普当选等现状。
 
@@ -18,8 +18,8 @@
 
 这篇文章探讨了当代西方的不安与忧郁，并通过Curtis的纪录片作为一个研究对象来讨论这种情绪。
 
-- 《Software Self Society: The Computer Histories of Adam Curtis》
-这篇文章由Andrew Utterson撰写，标题为《Software Self Society: The Computer Histories of Adam Curtis》。文章详细分析了英国纪录片制作人亚当·柯蒂斯（Adam Curtis）的几部作品，特别是关注于计算机技术对个人和社会的影响。主要讨论了以下几部纪录片：
+### Software Self Society: The Computer Histories of Adam Curtis
+文章详细分析了英国纪录片制作人亚当·柯蒂斯（Adam Curtis）的几部作品，特别是关注于计算机技术对个人和社会的影响。主要讨论了以下几部纪录片：
 
 1. 《All Watched Over by Machines of Loving Grace》(2011): 探讨了计算机和网络技术如何改变我们对世界的看法，特别是通过各种系统和网络连接的方式。
 
