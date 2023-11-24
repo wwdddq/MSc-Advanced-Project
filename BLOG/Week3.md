@@ -1,10 +1,10 @@
 # Week3
 本周还是在看文献，并与导师讨论代码部分的问题。在导师的帮助下成功了解决了问题，运行出了D的数据。下一步打算尝试使用其他数据集进行测试。
 
-## 技术
+## Tech
 详情请见StyeGAN3-D文件夹
 
-## 论文
+## Literatures
 
 ### Detecting Fake News With Machine Learning
 
