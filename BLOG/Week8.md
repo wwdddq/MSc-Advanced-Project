@@ -1,5 +1,5 @@
 # Week8
-This week's work goal: to write the work part related to the paper.
+This week's work goal: write related work.
 
 ## Partial record, see paper for details
 Software Self Society: The Computer Histories of Adam Curtis article discusses how, the data processing systems of large corporations like Google and Facebook represent materialised manifestations of existing socio-political control structures. It emphasises that Silicon Valley is a site of political economy and carries a complex history and associated myths. Through archival images, Curtis demonstrates the reality of these data-processing machines, which are representative of the behind-the-scenes world of large tech corporations, including the viral dissemination of false and misleading information, which further erodes the subjectivity of our experiences and understandings of the past, present, and future.
