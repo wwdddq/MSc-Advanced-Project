@@ -1,19 +1,5 @@
 # Week10
 
-## Initial Code
-
-I used word's dictation feature to convert the VCRs to scripts and initially encoded them by script correlation.
-
-- The script can be found here: https://github.com/wwdddq/MSc-Advanced-Project/blob/main/Interview/Interview_Transcripts.pdf
-
-Firstly, I spent a couple of hours going through the interview transcripts again. I've been highlighting and jotting down initial impressions that will serve as a precursor to more detailed coding. (This step went reasonably well.)
-
-From the interviews with the four participants, I used an inductive helper to organise the discussion into 21 initial codes.
-
-Begin the coding process by marking important statements and observations in the data. Create a list of initial codes, noting potential relationships between them. (This step was slightly more difficult, but I found potential relationships between statements and codes through literature given to me by my mentor.)
-
-- The Initial Code can be found here: https://github.com/wwdddq/MSc-Advanced-Project/blob/main/Interview/initial_code.xlsx
-
 ## TA
 When trying to use TA to categorise topics, I didn't quite understand exactly how I was going to categorise them, which made it difficult for me. So I went and searched the literature and how other people's studies have used TA as a method.
 
@@ -30,3 +16,13 @@ Began drafting the analytical section of the report, weaving together the themat
 I tried to follow this step-by-step process to sort out the logic and slightly get my head around it again. Trying to start with 1. first impressions, understanding of AI, cues that influence judgement and also the medium.
 
 The final analysis can be found in the paper.
+
+## Questionnaire Analysis
+
+As of this week I have received a total of 59 questionnaire results, although this is not a huge number for my research, I have used the 59 data as the basis for my analysis given that I still need to analyse the data.
+
+I used python to perform a variety of analyses on the data from the questionnaires and created visualisations. Since my project is research in nature, documenting too much in a blog would be repetitive with the thesis, so please check out the details in the thesis.
+
+The python data analysis code section can be found at the following link.
+
+
