@@ -8,7 +8,7 @@
 通过进一步测试ffhq数据集，我们意外发现，当D的输出接近0时，图像更可能被认为是真实的，而输出接近1时，则被认为是生成的。
 
 基于此基础测试，我尝试对现有的使用不同数据集的StyleGAN3的预训练模型都进行一些基础测试。
-- https://github.com/justinpinkney/awesome-pretrained-stylegan3/blob/main/README.md
+- Datasets Source: https://github.com/justinpinkney/awesome-pretrained-stylegan3/blob/main/README.md
 
 以下是测试的记录
 
