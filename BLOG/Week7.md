@@ -1,43 +1,43 @@
 # Week7
-本周的工作目标是：看三篇文献，撰写论文大纲
+This week's work goal is to read three pieces of literature and write an outline for a paper
 
-## 文献
+## Literature
 
 ### Landscape Art Image Style Reconstruction Algorithm Based on Machine Learning
 
-摘要：本文讨论了使用具有注意力机制的循环一致性生成对抗网络（GANs）进行图像风格转换，尤其是景观艺术图像风格转换。 它强调增强图像的特定特征以获得更好的风格转换效果。
+Abstract: This paper discusses the use of recurrently consistent Generative Adversarial Networks (GANs) with attentional mechanisms for image style reconstruction, especially for landscape art images. It emphasises on enhancing specific features of an image for better style transformation results.
 
-简介：该论文强调了人工智能和深度学习的兴起，尤其是在非逼真渲染方面。论文强调了图像风格转移在各个领域日益增长的重要性，从社交媒体上的个人表达到电影和动画等商业应用。
+Synopsis: The paper highlights the rise of Artificial Intelligence and Deep Learning, especially in non-realistic rendering. The paper highlights the growing importance of image style shifting in various domains, from personal expression on social media to commercial applications such as film and animation.
 
-艺术图像风格重构：神经风格转移概述： 本文概述了神经风格转移，这是一种使用卷积神经网络将一个图像的内容与另一个图像的风格相结合的技术。 论文引用了为这一领域奠定基础的 Gatys 等人的研究成果。
+Artistic image style reconstruction: an overview of neural style transfer: This paper provides an overview of neural style transfer, a technique that uses convolutional neural networks to combine the content of one image with the style of another. The paper cites Gatys et al. who laid the groundwork for this field.
 
-景观艺术图像风格重构算法：论文深入探讨了GANs在图像风格转换中的应用，强调了使用这些模型生成多视角图像转换和自动描述生成所面临的挑战和机遇。
+Algorithms for Stylistic Reconstruction of Landscape Art Images: the paper delves into the use of GANs for image style transformation, highlighting the challenges and opportunities of using these models to generate multi-view image transformations and automatic description generation.
 
-结论：文章最后讨论了图像风格转换技术的广泛应用和研究价值。本文提出了一种景观图像风格转换模型，该模型使用具有注意力机制的 GANs 来增强特定特征，以提高风格化效果。
+CONCLUSION: The paper concludes with a discussion of the wide range of applications and research value of image style transformation techniques. This paper proposes a landscape image style transformation model that uses GANs with attentional mechanisms to augment specific features for improved stylisation.
 
-### Mechanisms of Face Perception
+## Mechanisms of Face Perception
 
-摘要：人脸感知被认为是一种独特的信息刺激，在人脑中与众不同，在猕猴中也能观察到。一种假说认为，人脸处理的特殊性是由于一个强制性的检测过程，本文旨在通过各种实验来澄清和证明这一点。
+Abstract: Face perception is thought to be a unique information stimulus, distinctive in the human brain and observed in macaques. One hypothesis suggests that the specificity of face processing is due to an obligatory detection process, which this paper aims to clarify and demonstrate through various experiments.
 
-导言：本文将人脸识别与物体识别进行了比较，强调了在位置、光照和遮挡发生变化的情况下辨别细微差别的必要性。这种比较将人脸感知作为物体识别的一个缩影。
+INTRODUCTION: This paper compares face recognition with object recognition, highlighting the need to recognise subtle differences in the presence of changes in position, illumination and occlusion. This comparison treats face perception as a microcosm of object recognition.
 
-机理回顾：本文从计算理论、算法和神经实现等不同层面回顾了人脸处理过程，详细阐述了人脸处理过程中的相关机制问题。
+Mechanism review: this paper reviews the face processing process at different levels of computational theory, algorithms and neural implementations, and elaborates on the related mechanism issues in the face processing process.
 
-计算机视觉算法：计算机视觉中的人脸处理分为检测、测量和分类。检测包括识别人脸的存在，测量包括根据人脸的特征区分各个人脸，而分类则是根据身份、性别和年龄等属性对人脸进行分类。
+Computer vision algorithms: face processing in computer vision is divided into detection, measurement and classification. Detection involves recognising the presence of a face, measurement involves distinguishing individual faces based on their features, and classification classifies faces based on attributes such as identity, gender and age.
 
-算法回顾：介绍了对人脸识别可能的生物机制提供见解的算法的综述，如 Viola-Jones 和 Sinha 的算法以及 Eigenface 算法。其中包括对基于特征的方法和整体方法的讨论。
+ALGORITHM REVIEW: A review of algorithms that provide insights into possible biological mechanisms of face recognition, such as Viola-Jones and Sinha's algorithm and the Eigenface algorithm, is presented. A discussion of feature-based and holistic approaches is included.
 
-人类行为和功能成像：讨论了行为研究和功能成像数据，如在人脸感知任务中纺锤形回和纺锤形面区（FFA）的激活。这一部分强调了大脑中人脸处理过程的独特性，并提出了一个独特的人脸检测阶段。
+Human Behavioural and Functional Imaging: Behavioural studies and functional imaging data such as activation of the fusiform gyrus and fusiform face area (FFA) in face perception tasks are discussed. This section highlights the uniqueness of face processing in the brain and presents a unique stage of face detection.
 
-测量与分类：通过fMRI研究探讨了人脑中存在单独的人脸测量和分类系统的可能性，这些研究表明枕叶人脸区（OFA）和FFA在人脸处理中扮演着不同的角色。
+Measurement and classification: The possibility of separate face measurement and classification systems in the human brain has been explored through fMRI studies that have shown that the occipital face area (OFA) and the FFA play distinct roles in face processing.
 
-猴子 fMRI 和单一单元生理学：详细介绍了利用 fMRI 和单单元生理学研究猴子的面孔选择性细胞及其在检测和整体处理面孔中的作用。本节包括对人脸细胞的解剖特化和特征组合反应的时间过程的讨论。
+Monkey fMRI and single-unit physiology: details of the use of fMRI and single-unit physiology to study face-selective cells in monkeys and their role in detecting and processing faces as a whole. This section includes a discussion of the time course of anatomical specialisation and feature combination responses in human face cells.
 
-未来研究方向：本文最后提出了未来的研究方向，质疑了人脸处理的独特性、其模块化性质以及检测-门控假说对理解人脸识别和检测处理的影响。
+FUTURE RESEARCH DIRECTIONS: the paper concludes with future research directions that question the uniqueness of face processing, its modular nature, and the implications of the detection-gating hypothesis for understanding face recognition and detection processing.
 
-- 在撰写论文大纲时，参考了之前分析过的文献，这也是我记录读过的文献是分章节来写的原因。
+- The outline of the paper was written with reference to previously analysed literature, which is why my record of the literature read was written in chapters.
 
-## 论文draft
+## thesisdraft
 
 Title
 
