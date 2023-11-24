@@ -1,55 +1,58 @@
 # Week1
-第一周在探索我的主题的各种可能性，看了导师推荐的纪录片，还看了一些文献，对我的项目有了初步的想法。
+The first week has been spent exploring the possibilities of my topic, watching a documentary recommended by my tutor, and reading some literature to get an initial idea of my project.
 
-## 'HyperNormalisation':
+## 'HyperNormalisation'.
 
-在当今的网络空间中，信息传播无处不在，我们的意识和事物的评判标准受到了自身认知和互联网的双重影响。我们往往倾向于相信互联网上呈现的信息，将其视为客观事实。但这背后隐藏着一种主观性，即媒介和技术如何塑造我们的观点和影响我们的判断。而信息传播的重要媒介之一是图像，在机器学习中关于图像生成的技术更是数不胜数。
+Some background derived from watching the documentary:
+
+In today's cyberspace, where the dissemination of information is ubiquitous, our consciousness and the standards by which things are judged are influenced by both our own perceptions and the Internet. We tend to tend to believe the information presented on the Internet as objective facts. But behind this lies a subjectivity about how media and technology shape our views and influence our judgements. One of the most important media for information dissemination is images, and there are countless techniques for image generation in machine learning.
 
 ### Is everything connected?
-文章探讨了Adam Curtis在2016年导演的BBC纪录片《HyperNormalisation》。纪录片于美国最后一次总统选举前几天发布，讲述了自1970年代以来，西方观众生活在一个由权力欲望膨胀者精心制造的虚假现实中的阴谋。
+The article explores the 2016 BBC documentary HyperNormalisation directed by Adam Curtis. Released a few days before the last presidential election in the US, the documentary tells the story of a conspiracy that has seen Western audiences living in a false reality crafted by power-hungry individuals since the 1970s.
 
-文章指出，纪录片本身也起到了一种阴谋论的作用：它通过将各种图像和档案影像以近乎超现实的方式并置，声称只要跟随连接——这些连接只需几次点击就能到达——我们就能完全理解从叙利亚内战到英国脱欧，再到特朗普当选等现状。
+The article points out that the documentary itself functions as a kind of conspiracy theory: by juxtaposing various images and archival footage in an almost surreal way, it claims that by following the connections-which can be reached in just a few clicks-we can fully comprehend the current state of affairs, from the Syrian civil war to Britain's exit from the European Union to Trump's election.
 
-文章引用Susan Lepselter的研究，她对美国空军高度机密的51区及其与UFO存在证据的相关性进行了民族志研究。文章讨论了为何平常友好、理性的人会围绕外星人、秘密政府特工和被毁坏的牲畜的故事组织自己的生活，并指出真实的创伤和幻想都是现实的。Curtis的纪录片没有具体讨论这些创伤，而是声称美国空军自己就是与空军基地相关的阴谋论的源头，旨在转移人们对冷战期间军事实验的注意力。
+The article cites research by Susan Lepselter, who conducted an ethnographic study of the USAF's highly classified Area 51 and its correlation with evidence of the existence of UFOs. The article discusses why normally friendly, rational people would organise their lives around stories of aliens, secret government agents and destroyed livestock, and points out that real traumas and fantasies are real.Rather than discussing these traumas specifically, Curtis's documentary claims that the US Air Force itself is the source of conspiracy theories related to the airbase, aiming to divert attention away from military experiments during the Cold War attention.
 
-文章还提到Curtis如何通过拼贴式的互联网浏览器标签页来呈现社会分析，反对既定的现实叙述，并探索了社会科学家如何抵抗这种指控，以及如何坚持社会分析与网络浏览器标签页拼贴之间的差异。
+The article also mentions how Curtis presents social analysis through a collage of internet browser tabs against established narratives of reality, and explores how social scientists resist such accusations and assert the difference between social analysis and a collage of internet browser tabs.
 
-文章结论提出，通过Actor-Network Theory和法国实用主义思想，我们应该将关注点从故事中连接的实体转移到如何连接这些实体上。在Lepselter的分析中，解释的艺术在于以一种将我们置于混乱中心的方式连接图像，而不是在碎片后面或之外寻找隐藏的完整性。
+The article concludes by suggesting that through Actor-Network Theory and French pragmatist thought, we should shift our focus from the entities connected in the story to how they are connected. In Lepselter's analysis, the art of interpretation lies in connecting images in a way that places us at the centre of the chaos, rather than searching for hidden integrity behind or beyond the fragments.
 
-这篇文章探讨了当代西方的不安与忧郁，并通过Curtis的纪录片作为一个研究对象来讨论这种情绪。
+This essay explores the restlessness and melancholy of the contemporary West and discusses this mood through Curtis's documentary as an object of study.
 
 ### Software Self Society: The Computer Histories of Adam Curtis
-文章详细分析了英国纪录片制作人亚当·柯蒂斯（Adam Curtis）的几部作品，特别是关注于计算机技术对个人和社会的影响。主要讨论了以下几部纪录片：
+The article analyses in detail several works by British documentary filmmaker Adam Curtis, focusing in particular on the impact of computer technology on individuals and society. The following documentaries are discussed:
 
-1. 《All Watched Over by Machines of Loving Grace》(2011): 探讨了计算机和网络技术如何改变我们对世界的看法，特别是通过各种系统和网络连接的方式。
+1. 'All Watched Over by Machines of Loving Grace' (2011): explores how computer and network technology has changed the way we see the world, particularly through the way various systems and networks are connected.
 
-2. HyperNormalisation》(2016): 分析了现实世界的复杂性如何被权力结构通过推广简单明了的叙述所掩盖，特别是在政治和社会结构方面。
+2. 'HyperNormalisation' (2016): analyses how the complexity of the real world is masked by power structures through the promotion of straightforward narratives, particularly in relation to political and social structures.
 
-3. 《Can’t Get You Out of My Head》(2021): 讨论了社交媒体和网络技术对我们生活的影响，以及这些技术如何塑造我们对自我和社会的理解。
+3. 'Can't Get You Out of My Head' (2021): discusses the impact of social media and online technologies on our lives and how these shape our understanding of self and society.
 
-文章强调了柯蒂斯的作品如何通过电影化的手法和深刻的文化分析来探讨计算机技术的社会和心理影响。Utterson指出，柯蒂斯的纪录片结合了当代的旁白解说和历史档案资料，以独特的视角揭示了计算机和网络系统在政治、哲学和社会上的深远影响。
+The article highlights how Curtis's work explores the social and psychological impact of computer technology through a cinematic approach and deep cultural analyses.Utterson notes that Curtis's documentary combines contemporary voice-over narration with historical archival footage to provide a unique perspective on the far-reaching political, philosophical, and social impact of computers and networked systems.
 
-文章还讨论了柯蒂斯如何通过电影中的计算机历史来反映现代社会的复杂性和挑战，尤其是在理解人类作为软件和社会的一部分这一更广泛的主题上。通过这种方式，柯蒂斯的作品不仅仅是关于技术的历史，还试图通过电影媒介来探索和质疑我们对技术、社会和自我的理解。
+The article also discusses how Curtis reflects the complexities and challenges of modern society through the history of computers on film, particularly in understanding the broader theme of humans as part of software and society. In this way, Curtis's work is not just about the history of technology, but also seeks to explore and question our understanding of technology, society and self through the medium of film.
 
-## 灵感来源：
-误导性信息 - 图像生成的真与假
+## Inspiration:
+Misinformation - The Truth and Falsehood of Image Generation
 
-## 一些想法：
-机器是如何“看”和“误解”世界的？
-图像生成模型在图像传播中的是否误导性？
-利用对抗攻击来讨论图像如何塑造我们的观点？
+## Some thoughts:
+How do machines 'see' and 'misinterpret' the world?
+Are image generation models misleading in image propagation?
+Using adversarial attacks to discuss how images shape our views?
 
-- 初步想法
-我想尝试创建一个项目，通过机器学习技术来“误导”计算机视觉系统。比如，制作一些艺术作品，如图像，这些作品在人眼中可能看起来很普通，但实际上它们被设计成能够欺骗计算机视觉算法，使其误判或无法准确分类和识别。最终艺术作品的呈现方式可能是将原始样本与对抗样本做对比，也可能是邀请观众亲自体验对抗样本是如何“欺骗”机器视觉模型的。我尝试通过此项目，探讨和反思技术的可靠性和艺术的多元表达。
-
-
-### 展开联想：
-人可以被误导，那么机器呢？- 人类与人工智能在图像上的感知差异
-
-由此想到的一个初步方案，通过机器学习技术（图像生成-GANs）来“误导”计算机视觉系统（CNNs）。查找相关的论文后，我发现相关的论文大部分都是通过对抗攻击来优化模型。我想通过对抗攻击来探究技术的可靠性和人类与机器的感知差异。
-
-### 问题：
-不知道选择哪种具体的生成式对抗网络模型进行研究，及相对应的检测工具
+- Initial Thoughts
+I would like to try to create a project to "mislead" a computer vision system through machine learning techniques. For example, producing artworks such as images that may look ordinary to the human eye, but are actually designed to trick computer vision algorithms into misclassifying or failing to accurately classify and recognise them. The final artwork may be presented by comparing the original sample with the counter sample, or by inviting the viewer to experience for themselves how the counter sample "fools" the machine vision model. Through this project, I try to explore and reflect on the reliability of technology and the diversity of artistic expression.
 
 
+### Expanding associations:
+People can be misled, but what about machines? - Differences in image perception between humans and AI.
 
+This led to a preliminary proposal to "mislead" computer vision systems (CNNs) through machine learning techniques (image generation - GANs). After searching for relevant papers, I found that most of the relevant papers are about optimising the model through adversarial attacks. I would like to explore the reliability of the technique and the difference in perception between humans and machines through adversarial attacks.
+
+### Problem:
+I don't know which specific generative adversarial network model to choose for research, and the corresponding detection tools
+
+
+
+ Translated with www.DeepL.com/Translator (free version)
