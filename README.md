@@ -8,11 +8,11 @@ Can you unveil the truth behind these images?
 - https://purple-directions-249030.framer.app/
 
 
-# 项目介绍
+## 项目介绍
 
 本项目由两部分组成，第一部分是研究课题，第二部分是作品。作品作为研究课题中的访谈形式工具呈现。
 
-## 研究课题
+### 研究课题
 
 **Evaluating Image Authenticity in the Era of Advanced GANs**
 
@@ -25,7 +25,7 @@ In the sections that follow, the paper describes a mixed-method approach that co
 The journey of this thesis runs through the intricate interplay between emotion, art and technological prowess, ultimately aiming to enrich the discourse on the role of AI in the arts and guide the development of more empathetic and culturally aware AI systems. Through this exploration, the thesis positions itself at the intersection of technology, art, and human perception, offering a unique perspective on evolving narratives of authenticity in the digital age.
 
 
-## 展览作品介绍
+### 展览作品介绍
 
 **感知迷宫**
   在这个由高级生成对抗网络（GAN）技术主导的时代，图像的真实性界限变得模糊。本作品，“感知迷宫”，旨在探索和挑战我们对图像真实与虚假的认识。此次展览受我在论文研究中使用的人物访谈方法的启发，旨在通过艺术的形式与大众对话。通过两个独特部分——实体印刷图像和数字图像互动，我们邀请观众踏上一场既视觉又思维的旅程。
