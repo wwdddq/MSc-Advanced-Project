@@ -1,12 +1,12 @@
 # Week2
 本周进行了一些初步想法的深化，以及技术上的学习
 
-## 技术
+## Tech
 - https://levelup.gitconnected.com/training-a-stylegan3-in-colab-gan-create-nft-6dd119774644
 - https://blog.paperspace.com/stylegan3-gradient-notebooks/
 - 尝试跑StyleGAN3，但是没有成功
 
-## 论文
+## Literatures
 看了几篇文献
 
 ### Learning to See: You Are What You See (学会看见：你就是你所看见的) 
