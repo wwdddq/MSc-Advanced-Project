@@ -21,28 +21,32 @@ I invited four interviewees with different artistic backgrounds.
 
 ## Initial Code
 
-我使用word的听写功能将VCRs转换成脚本，并通过脚本的关联性进行初始编码。
+I used word's dictation feature to convert the VCRs to scripts and initially encoded them by script correlation.
 
-- 脚本请看这里：https://github.com/wwdddq/MSc-Advanced-Project/blob/main/Interview/Interview_Transcripts.pdf
+- The script can be found here: https://github.com/wwdddq/MSc-Advanced-Project/blob/main/Interview/Interview_Transcripts.pdf
 
-首先，我花了几个小时再次查看采访记录。 我一直在强调并记下最初的印象，这将作为更详细编码的先导。（这一步进展的还算比较顺利。）
+Firstly, I spent a couple of hours going through the interview transcripts again. I've been highlighting and jotting down initial impressions that will serve as a precursor to more detailed coding. (This step went reasonably well.)
 
-通过对四位参与者的采访，我使用归纳式助教将讨论组织成 21 个初步代码。
+From the interviews with the four participants, I used an inductive helper to organise the discussion into 21 initial codes.
 
-通过标记数据中的重要陈述和观察结果来开始编码过程。创建初始代码列表，注明它们之间的潜在关系。（这一步稍微有点困难，但我通过导师给的文献找到了陈述和编码之间的潜在关系。）
+Begin the coding process by marking important statements and observations in the data. Create a list of initial codes, noting potential relationships between them. (This step was slightly more difficult, but I found potential relationships between statements and codes through literature given to me by my mentor.)
 
-- Initial Code请看这里：https://github.com/wwdddq/MSc-Advanced-Project/blob/main/Interview/initial_code.xlsx
+- The Initial Code can be found here: https://github.com/wwdddq/MSc-Advanced-Project/blob/main/Interview/initial_code.xlsx
 
 ## TA
 When trying to use TA to categorise topics, I didn't quite understand exactly how I was going to categorise them, which made it difficult for me. So I went and searched the literature and how other people's studies have used TA as a method.
 
-通过查阅信息和文献，我得出了以下结论：
+By reviewing the information and literature, I have come to the following conclusions:
 
-尝试在代码之间建立联系以形成潜在的主题。勾勒出一个主题“地图”，以直观地展示这些初始主题如何组合在一起。
+Try to make connections between codes to form potential themes. Outlined a thematic 'map' to visualise how these initial themes fit together.
 
-重新审视编码数据提取，以评估识别的主题是否准确反映编码数据和整个数据集。 一些主题经过细化、合并或分离，以更好地表达数据见解。
+Revisited the coded data extracts to assess whether the identified themes accurately reflected the coded data and the dataset as a whole. Some themes were refined, merged, or separated to better express data insights.
 
-定义每个主题的范围和叙述。 为每个主题编写了详细描述，概述了它捕获的数据的各个方面以及它在研究背景下讲述的整体故事。
+Defined the scope and narrative of each theme. A detailed description was developed for each theme, outlining the aspects of the data it captured and the overall story it told in the context of the study.
 
-开始起草报告的分析部分，将主题叙述与适当的数据摘录编织在一起。 还开始将我们的发现与该领域更广泛的文献和现有研究联系起来。
+Began drafting the analytical section of the report, weaving together the thematic narratives with appropriate data excerpts. Also began to link our findings to the wider literature and existing research in the field.
+
+I tried to follow this step-by-step process to sort out the logic and slightly get my head around it again. Trying to start with 1. first impressions, understanding of AI, cues that influence judgement and also the medium.
+
+The final analysis can be found in the paper.
 
