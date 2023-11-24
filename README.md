@@ -1,5 +1,5 @@
 # MSc-Advanced-Project
-- **Perception Maze: Evaluating Image Authenticity in the Era of Advanced GANs**
+**Perception Maze: Evaluating Image Authenticity in the Era of Advanced GANs**
 
 首先，在正式开始阅读介绍之前，让我们先来玩一个小游戏吧！
 
@@ -27,8 +27,7 @@ The journey of this thesis runs through the intricate interplay between emotion,
 ## 展览作品介绍
 
 - **感知迷宫**
-
-在这个由高级生成对抗网络（GAN）技术主导的时代，图像的真实性界限变得模糊。本作品，“感知迷宫”，旨在探索和挑战我们对图像真实与虚假的认识。此次展览受我在论文研究中使用的人物访谈方法的启发，旨在通过艺术的形式与大众对话。通过两个独特部分——实体印刷图像和数字图像互动，我们邀请观众踏上一场既视觉又思维的旅程。
+  在这个由高级生成对抗网络（GAN）技术主导的时代，图像的真实性界限变得模糊。本作品，“感知迷宫”，旨在探索和挑战我们对图像真实与虚假的认识。此次展览受我在论文研究中使用的人物访谈方法的启发，旨在通过艺术的形式与大众对话。通过两个独特部分——实体印刷图像和数字图像互动，我们邀请观众踏上一场既视觉又思维的旅程。
 
 -  **实体印刷图像**:
   根据研究课题选择的图像的实体展示，包含一系列挑战真假辨识界限的图像。
