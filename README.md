@@ -1,5 +1,5 @@
 # MSc-Advanced-Project
-**Perception Maze: Evaluating Image Authenticity in the Era of Advanced GANs**
+## Perception Maze: Evaluating Image Authenticity in the Era of Advanced GANs
 
 首先，在正式开始阅读介绍之前，让我们先来玩一个小游戏吧！
 
