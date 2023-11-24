@@ -1,81 +1,80 @@
 # Week3
-本周还是在看文献，并与导师讨论代码部分的问题。在导师的帮助下成功了解决了问题，运行出了D的数据。下一步打算尝试使用其他数据集进行测试。
+Still reading the literature this week and discussing the code section with my tutor. Successfully solved the problem with the help of my mentor and ran out of D data. Next step is to try testing with other datasets.
 
 ## Tech
-详情请见StyeGAN3-D文件夹
+See StyeGAN3-D folder for details
 
 ## Literatures
 
 ### Detecting Fake News With Machine Learning
 
-引言：讨论数字时代假新闻的盛行及其潜在危害，如误导公众和造成政治分裂。介绍当前应对假新闻的方法，如人工审核和将不可靠信息来源列入黑名单，以及这些方法的局限性。
+INTRODUCTION: Discusses the prevalence of fake news in the digital age and its potential harms, such as misleading the public and creating political divisions. Introduces current approaches to tackling fake news, such as manual vetting and blacklisting of unreliable sources, and the limitations of these approaches.
 
-背景：概述研究中使用的机器学习方法，强调其通过语言模式分析检测假新闻的潜力。将该方法与垃圾邮件检测和新闻文章中的立场检测等相关领域进行比较。
+BACKGROUND: Provide an overview of the machine learning approach used in the study, highlighting its potential for detecting fake news through language pattern analysis. Compare the approach to related fields such as spam detection and stance detection in news articles.
 
-方法：详细介绍从 Kaggle 使用的数据集，其中包含真实和虚假新闻集。解释了数据清理和矢量化过程，包括 CountVectorizer、TF-IDF Vectorizer 和 One-Hot representation 等技术。
+METHODS: Details the dataset used from Kaggle, which contains both real and fake news sets. The data cleaning and vectorisation process is explained, including techniques such as CountVectorizer, TF-IDF Vectorizer and One-Hot representation.
 
-应用分类器：讨论各种分类器的应用，例如多项式 Naive Bayes、被动进取算法和长短期记忆（LSTM）模型。介绍每种分类器的具体特征和过程。
+Applied Classifiers: discusses the application of various classifiers such as Polynomial Naive Bayes, Passive Aggressive Algorithms, and Long Short-Term Memory (LSTM) models. The specific features and processes of each classifier are presented.
 
-结果：介绍应用这些分类器的结果，包括准确率和混淆矩阵。比较不同分类器在识别假新闻方面的有效性。
+RESULTS: Present the results of applying these classifiers, including accuracy rates and confusion matrices. Compare the effectiveness of the different classifiers in identifying fake news.
 
-结论：总结研究发现，各种机器学习算法都能有效检测假新闻。提出了未来的研究方向，如测试更多模型和将框架应用于不同平台。
+CONCLUSION: Summarises the research findings that various machine learning algorithms are effective in detecting fake news. Future research directions such as testing more models and applying the framework to different platforms are proposed.
 
 ### GAN-generated Faces Detection: A Survey and New Perspectives
 
-引言：讨论 GAN 的发展及其在生成高度逼真的人脸方面的应用，为假人脸检测带来挑战。讨论了 GAN 生成的人脸在各种情况下的社会问题和负面影响，如虚假社交媒体账户。
+INTRODUCTION: Discusses the development of GAN and its application in generating highly realistic faces that pose challenges for fake face detection. The social issues and negative impacts of GAN generated faces in various scenarios such as fake social media accounts are discussed.
 
-GAN 生成高度逼真的人脸：简要介绍使用不同 GAN 模型生成高质量人脸的主流方法。
+GAN Generation of Highly Lifelike Faces: a brief overview of the mainstream methods for generating high-quality faces using different GAN models.
 
-GAN-人脸检测方法
-   - 基于深度学习的方法： 研究使用深度神经网络分辨假人脸的方法。
-   - 基于物理的方法： 讨论通过检查物理世界表征的不一致性来识别 GAN 人脸的方法。
-   - 基于生理的方法： 探讨基于生物和生理不一致性检测合成人脸的方法。
-   - 人类视觉表现： 分析人类感知在识别 GAN 生成的人脸方面的有效性。
+GAN-Face Detection Methods
+   - Deep Learning Based Approaches: Examines the use of deep neural networks to discriminate fake faces.
+   - Physics-Based Approaches: Discusses methods for recognising GAN faces by checking the inconsistency of physical world representations.
+   - Physiological-based methods: Explore methods for detecting synthetic faces based on biological and physiological inconsistencies.
+   - Human Visual Performance: Analyse the effectiveness of human perception in recognising GAN-generated faces.
 
-数据集和性能评估：调查 GAN 人脸检测研究中使用的流行数据集和主要评估指标。
+Datasets and Performance Evaluation: Survey of popular datasets and key evaluation metrics used in GAN face detection research.
 
-相关调查：回顾与 GAN 脸部检测及相关领域（如变形脸部和操纵脸部检测）有关的其他调查。
+Related Surveys: Review other surveys related to GAN face detection and related areas such as deformed face and manipulated face detection.
 
-未来方向：讨论 GAN 模型的预期发展以及对有效检测方法的持续需求，同时考虑到对抗性攻击和数据不平衡等挑战。
+Future Directions: Discusses the expected development of GAN models and the continued need for effective detection methods, taking into account challenges such as adversarial attacks and data imbalance.
 
-结论：总结 GAN 脸部检测的最新进展，强调该领域的重要性和持续研究的必要性。
+Conclusion: summarises recent advances in GAN face detection, highlighting the importance of the field and the need for continued research.
 
 ### Discriminator Synthesis: On reusing the other half of Generative Adversarial Networks
 
-简介：介绍 GANs 的概念及其对艺术和计算机视觉的影响。重点介绍 GANs 的生成器组件，而判别器往往在训练后被忽视。
+Introduction: Introduces the concept of GANs and their impact on art and computer vision. Focuses on the generator component of GANs, while discriminators are often neglected after training.
 
-鉴别器的梦想：提出利用判别器学习到的特征来修改和生成图像的新想法，称为 "判别器做梦"。详细介绍了这一方法的灵感和理论基础，并引用了之前在 GAN 和艺术应用方面的研究成果。
+Discriminator Dreaming: presents the new idea of using features learnt by the discriminator to modify and generate images, called "discriminator dreaming". The inspiration and theoretical foundations of this approach are described in detail, citing previous research in GAN and art applications.
 
-方法与实施：解释 "Discriminator Dreaming "的技术过程，包括从 StyleGAN2 的判别器中提取中间特征。讨论实际应用，如将该方法用于风格转移和图像投影。
+METHODOLOGY AND IMPLEMENTATION: Explains the technical process of "Discriminator Dreaming", including the extraction of intermediate features from the discriminator of StyleGAN2. Discuss practical applications, such as using the method for style transfer and image projection.
 
-实验结果：介绍使用各种预训练模型和判别层的初步结果。包括演示该方法在不同图像和分辨率上效果的可视化示例。
+EXPERIMENTAL RESULTS: Presents preliminary results using various pre-trained models and discriminator layers. Includes visual examples demonstrating the effect of the method on different images and resolutions.
 
-局限性和未来工作：讨论该算法目前存在的局限性，如合成速度慢以及进一步完善的潜在需求。提出了未来研究和改进的潜在领域。
+Limitations and future work: discusses the current limitations of the algorithm, such as slow synthesis speed and the potential need for further refinement. Potential areas for future research and improvement are suggested.
 
-伦理考虑和致谢：讨论该方法的预期艺术用途以及使用预训练模型的伦理影响。
+Ethical Considerations and Acknowledgements: discusses the intended artistic uses of the method and the ethical implications of using pre-trained models.
 
 ### Amplifying The Uncanny
 
-简介：解决深度造假的兴起以及围绕它们的争议，特别是它们在色情和创建虚假在线身份等领域的应用。
+INTRODUCTION: Addresses the rise of deep fakes and the controversy surrounding them, particularly their use in areas such as pornography and the creation of false online identities.
 
-背景：讨论机器学习、GAN 及其在深度赝品和艺术创作中的用途。引入微调 GAN 的概念，强调鉴别器网络在生成新颖艺术输出方面的潜力。
+BACKGROUND: Discusses machine learning, GANs and their use in deep fakes and art creation. Introduces the concept of fine-tuned GANs and highlights the potential of discriminator networks in generating novel artistic output.
 
-反转目标函数：解释反转 GAN 目标函数的过程，特别关注优化生成器以生成被鉴别器分类为假的图像。
+Inverting the objective function: explains the process of inverting the GAN objective function, with a particular focus on optimising the generator to produce images classified as fake by the discriminator.
 
-最大化可能性：讨论最大化 GAN 中数据的可能性及其艺术潜力的理论含义。
+Maximising Likelihood: discusses the theoretical implications of maximising the likelihood of data in a GAN and its artistic potential.
 
-发散、收敛、崩溃：描述微调过程的各个阶段及其对生成图像的影响，从而导致不同程度的诡异效果。
+Divergence, Convergence, and Collapse: describes the stages of the fine-tuning process and its effects on the generated images, leading to varying degrees of spooky effects.
 
-检查巅峰神秘性：探索模型的特定迭代，展示出最明显的怪异之处。
+Examining Peak Mystery: explores specific iterations of the model that demonstrate the most obvious weirdness.
 
-探索不同的状态：讨论模型训练不同阶段微调过程结果的变化。
+Explore different states: discuss the variations in the results of the fine-tuning process at different stages of model training.
 
-结论：总结研究结果并反思作品的艺术和感知含义。
+Conclusion: summarise the findings and reflect on the artistic and perceptual implications of the work.
 
-- 与判别器相关的信息
+- Information related to the Discriminator
 
-- **鉴别器的角色**：在传统的 GAN 中，鉴别器经过优化，可以将真实数据分类为真实数据，将生成的数据分类为假数据，而生成器则试图欺骗鉴别器。
-- **微调 GAN**：论文强调了判别器网络在艺术创作中的潜力。 通过冻结判别器的权重并将其与生成器结合使用，本文探索了与典型 GAN 生成的图像显着不同的新颖输出。
-- **反向目标函数**：不是优化生成器来生成真实的图像，而是对生成器进行微调以生成鉴别器分类为假的图像。 这种方法产生了一系列艺术输出，放大了机器生成图像的神秘本质。
-
+- **Role of the discriminator**: in a traditional GAN, the discriminator is optimised to classify real data as real and generated data as fake, while the generator tries to trick the discriminator.
+- **Fine-tuning GAN**: the paper highlights the potential of discriminator networks in art creation. By freezing the weights of the discriminators and using them in conjunction with the generators, the paper explores novel outputs that are significantly different from images generated by typical GANs.
+- **Reverse Objective Function**: instead of optimising the generator to produce realistic images, the generator is fine-tuned to produce images that the discriminator classifies as false. This approach produces a range of artistic outputs that amplify the mysterious nature of machine-generated images.
 
