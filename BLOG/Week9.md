@@ -23,6 +23,26 @@ I invited four interviewees with different artistic backgrounds.
 
 我使用word的听写功能将VCRs转换成脚本，并通过脚本的关联性进行初始编码。
 
-- 脚本请看这里：
-- 
-- Initial Code请看这里：
+- 脚本请看这里：https://github.com/wwdddq/MSc-Advanced-Project/blob/main/Interview/Interview_Transcripts.pdf
+
+首先，我花了几个小时再次查看采访记录。 我一直在强调并记下最初的印象，这将作为更详细编码的先导。（这一步进展的还算比较顺利。）
+
+通过对四位参与者的采访，我使用归纳式助教将讨论组织成 21 个初步代码。
+
+通过标记数据中的重要陈述和观察结果来开始编码过程。创建初始代码列表，注明它们之间的潜在关系。（这一步稍微有点困难，但我通过导师给的文献找到了陈述和编码之间的潜在关系。）
+
+- Initial Code请看这里：https://github.com/wwdddq/MSc-Advanced-Project/blob/main/Interview/initial_code.xlsx
+
+## TA
+When trying to use TA to categorise topics, I didn't quite understand exactly how I was going to categorise them, which made it difficult for me. So I went and searched the literature and how other people's studies have used TA as a method.
+
+通过查阅信息和文献，我得出了以下结论：
+
+尝试在代码之间建立联系以形成潜在的主题。勾勒出一个主题“地图”，以直观地展示这些初始主题如何组合在一起。
+
+重新审视编码数据提取，以评估识别的主题是否准确反映编码数据和整个数据集。 一些主题经过细化、合并或分离，以更好地表达数据见解。
+
+定义每个主题的范围和叙述。 为每个主题编写了详细描述，概述了它捕获的数据的各个方面以及它在研究背景下讲述的整体故事。
+
+开始起草报告的分析部分，将主题叙述与适当的数据摘录编织在一起。 还开始将我们的发现与该领域更广泛的文献和现有研究联系起来。
+
