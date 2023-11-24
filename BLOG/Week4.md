@@ -12,5 +12,26 @@
 
 以下是测试的记录
 
-Ffhq
-Fake: -0.8523 / -0.4713 / -0.5625
+![https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/1.png]
+
+![https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/2.png]
+
+![https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/3.png]
+
+![https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/4.png]
+
+![https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/5.png]
+
+![https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/6.png]
+
+![https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/7.png]
+
+![https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/8.png]
+
+![https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/9.png]
+
+![https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/10.png]
+
+![https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/11.png]
+
+![https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/12.png]
