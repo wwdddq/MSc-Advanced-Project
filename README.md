@@ -12,11 +12,11 @@ Firstly, before we officially start reading the introduction, let's play a littl
 
 This project consists of two parts, the first part is the research question and the second part is the work. The work is presented as an interview form tool in the research question.
 
-Video Presentation Link 
+**Video Presentation Link**
 - https://youtu.be/SkvKRpdk1uA
 
 
-### Introduction to Research Topics
+## Introduction to Research Topics
 
 **A Comparative Study of Human and Artificial Intelligence on the Perception of Authenticity in Artistic Images**
 
@@ -29,7 +29,7 @@ In the sections that follow, the paper describes a mixed-method approach that co
 The journey of this thesis runs through the intricate interplay between emotion, art and technological prowess, ultimately aiming to enrich the discourse on the role of AI in the arts and guide the development of more empathetic and culturally aware AI systems. Through this exploration, the thesis positions itself at the intersection of technology, art, and human perception, offering a unique perspective on evolving narratives of authenticity in the digital age.
 
 
-### Introduction to the work
+## Introduction to the work
 
 **Perception Maze**
 
