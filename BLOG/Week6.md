@@ -11,3 +11,6 @@
 
 - https://www.bilibili.com/video/BV13P4y1Z7Lp/?spm_id_from=333.337.search-card.all.click&vd_source=4bf35e742c5f58014845d002599fdab0
 
+![MSc-Advanced-Project](https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/web.png)
+
+但是细节部分还需要优化，打算在下周继续进行。
