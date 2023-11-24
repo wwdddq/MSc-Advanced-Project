@@ -46,5 +46,6 @@ The work consists of two parts: a physical display of printed images and an inte
 This work not only enhances the interactivity of the interview format of the research project and the reliability of the information collected, but also invites the audience to step into this "maze of perception" to experience, explore and reflect on the authenticity of the images of our time.
 
 
+- The references and resources used in this project have all been noted where they should be.
 
 
