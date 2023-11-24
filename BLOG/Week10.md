@@ -17,6 +17,15 @@ I tried to follow this step-by-step process to sort out the logic and slightly g
 
 The final analysis can be found in the paper.
 
+![MSc-Advanced-Project](https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/Pre%20video.012.jpeg)
+![MSc-Advanced-Project](https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/Pre%20video.013.jpeg)
+![MSc-Advanced-Project](https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/Pre%20video.014.jpeg)
+![MSc-Advanced-Project](https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/Pre%20video.015.jpeg)
+![MSc-Advanced-Project](https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/Pre%20video.016.jpeg)
+![MSc-Advanced-Project](https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/Pre%20video.017.jpeg)
+![MSc-Advanced-Project](https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/Pre%20video.018.jpeg)
+
+
 ## Questionnaire Analysis
 
 As of this week I have received a total of 59 questionnaire results, although this is not a huge number for my research, I have used the 59 data as the basis for my analysis given that I still need to analyse the data.
