@@ -1,7 +1,17 @@
 # Week9
-Work objectives for this week: conduct character interviews, transcribe VCRs into scripts, and conduct initial coding analysis.
+Work objectives for this week: conduct character interviews, transcribe VCRs into scripts.
+
+Write the methodology section.
 
 I invited four interviewees with different artistic backgrounds.
+
+In determining the format of the survey, my initial idea was to transform the questionnaire into an interactive web-based format, similar to a participatory game, in order to widen the scope and enhance participation.
+
+I used Actor Network Theory (ANT) and Susan Lepselter's analyses mentioned in Dányi (2017) to structure the interview format, especially when presenting experimental images using different media.ANT considers all elements, including non-human entities such as technology or media, to be "actors" in an action network "This means that any medium in which an image is displayed is more than just a conduit for information; it influences the sending and receiving of messages. With this in mind, I chose a variety of mediums to present the experimental images, exploring how different ways of viewing influence people's judgements about the authenticity of the images.
+
+In contrast to ANT is Lepselt's analysis, which suggests that the art of perception lies in connecting images in a way that revels in the chaos, rather than merely seeking the hidden integrity behind the fragments. I liken this analysis to a puzzle game, using the questionnaire as a medium to act as a window through which one peers in an attempt to find overall meaning from the outside. In order to immerse people in the heart of this chaotic puzzle, in its disorder and complexity, I chose to present printed images of physical experiments in a disordered manner, observing how being at the centre of the puzzle's story altered their judgement of the image's authenticity.
+
+The finalised interview format consisted of inviting people from different backgrounds to judge the printed images and conduct basic qualitative interviews before experiencing a web-based image game. Afterwards, I asked participants about the perceived differences between the two media presentations and how these differences affected their judgements and understanding of the content of the images.
 
 ## Programme question design
 
@@ -19,6 +29,7 @@ I invited four interviewees with different artistic backgrounds.
 
 **Q7**: Do you feel that there is a difference in the way you feel about the images you see online and the photographs on paper, and how does this difference affect your judgeMEnt and understanding of the content of the images?
 
+
 ## Initial Code
 
 I used word's dictation feature to convert the VCRs to scripts and initially encoded them by script correlation.
@@ -33,20 +44,5 @@ Begin the coding process by marking important statements and observations in the
 
 - The Initial Code can be found here: https://github.com/wwdddq/MSc-Advanced-Project/blob/main/Interview/initial_code.xlsx
 
-## TA
-When trying to use TA to categorise topics, I didn't quite understand exactly how I was going to categorise them, which made it difficult for me. So I went and searched the literature and how other people's studies have used TA as a method.
 
-By reviewing the information and literature, I have come to the following conclusions:
-
-Try to make connections between codes to form potential themes. Outlined a thematic 'map' to visualise how these initial themes fit together.
-
-Revisited the coded data extracts to assess whether the identified themes accurately reflected the coded data and the dataset as a whole. Some themes were refined, merged, or separated to better express data insights.
-
-Defined the scope and narrative of each theme. A detailed description was developed for each theme, outlining the aspects of the data it captured and the overall story it told in the context of the study.
-
-Began drafting the analytical section of the report, weaving together the thematic narratives with appropriate data excerpts. Also began to link our findings to the wider literature and existing research in the field.
-
-I tried to follow this step-by-step process to sort out the logic and slightly get my head around it again. Trying to start with 1. first impressions, understanding of AI, cues that influence judgement and also the medium.
-
-The final analysis can be found in the paper.
 
