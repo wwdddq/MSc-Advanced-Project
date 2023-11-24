@@ -1,5 +1,5 @@
 # Week5
-In this week's MEETING with my mentor, I brought up an issue I discovered last week.
+In this week's meeting with my mentor, I brought up an issue I discovered last week.
 
 Also, I noticed a comment on GitHub while searching for related content this week.
 
