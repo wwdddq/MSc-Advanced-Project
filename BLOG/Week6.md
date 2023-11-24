@@ -13,4 +13,6 @@
 
 ![MSc-Advanced-Project](https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/web.png)
 
+我将我的实验图像以混乱的方式排列，并用runway生成了模拟StyleGAN3生成视频的视频，作为网页游戏的背景部分。
+
 但是细节部分还需要优化，打算在下周继续进行。
