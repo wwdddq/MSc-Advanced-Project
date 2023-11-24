@@ -3,7 +3,7 @@ After finalising the experimental images last week, this week I intend to start 
 
 For the questions, I have referred to the visual cues used in the literature as previously mentioned.
 
-- 问卷链接：https://docs.google.com/forms/d/1nmOMkvG7xuxeFrti6Dc5La288iw6XZ2NXhZ4D01Wk_I/edit
+- survey：https://docs.google.com/forms/d/1nmOMkvG7xuxeFrti6Dc5La288iw6XZ2NXhZ4D01Wk_I/edit
 
 For the creation of the website, I found a software that builds websites without code called Framer.
 
