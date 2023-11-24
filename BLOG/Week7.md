@@ -39,22 +39,30 @@
 
 ## 论文draft
 
-- Title
+Title
+
 A Comparative Study of Human and Artificial Intelligence in Perceiving Image Realism
 
-- Abstract
+Abstract
+
 Provides a brief overview of the research question, which is how artificial intelligence discriminates between true and false images compared to human perception. Briefly describe the research methodology, including human studies, computational metrics, and thematic analyses. Highlights key findings, such as differences between human and AI judgements of image authenticity, and suggests implications for wider online disinformation.
 
-- 1 Introduction
+1 Introduction
+
 1.1 Motivation: the problem of misinformation in contemporary internet communication and the harm it causes is drawn from the hyper-conventionalisation of documentary films, with the characteristics of misinformation: no scientific basis/one-sidedness/intentional amplification. (US Election 2016) points out that most of the visual misleading information on the Internet is machine-generated. Humans can be misled by generated images, what about machines? To introduce the challenges of humans and machines for recognising the authenticity of visual content in contemporary society.
 
-- 2.1 Objective:
+1.2 Objective:
+
 Research question: to analyse the differences between humans and Generative Adversarial Networks (GANs) in judging the authenticity of portraits of people in paintings
+
 Inspiration: the use of generative images by others as misleading information to get Trump elected as president in the 2016 US election
+
 Artistic theme of special interest: the difference in perception between humans and AI in relation to portraits of people in paintings, e.g. a human judging whether a picture of a portrait of a person in a painting is real or generated might judge it in terms of colours, texture details, style of painting, etc., but what about GAN? And what are the factors by which the discriminator of GAN determines whether a picture is real or generated.
+
 Objective of Technology Development and Application: to extract the authenticity result scores assessed by the discriminator of styleGAN3 for portraits of people in real paintings and portraits of people in generated paintings, and to analyse the results to derive the commonalities and differences. The purpose of this operation is to do human experiments with these pictures, i.e., whether a human and a machine agree on the authenticity judgement of the same picture, and to study the reasons for their agreement or disagreement. The goal of the application is to make human beings feel the influence of images on misleading information in the process of doing the experimental experience, as well as to warn people to keep their own subjectivity and not to be influenced by others who use the machine's subjectivity.
 
-- 2 Background and related work
+2 Background and related work
+
 2.1 The role of images in information dissemination: a discussion of the prevalence of online information dissemination and the key role of images as a medium. Review the literature on human and computer vision systems for assessing the veracity of images. Humans judge the authenticity of an image based on those characteristics of the image.
 
 2.2 Image Generation in Machine Learning: discuss the intrusive nature of image generation as technology evolves for misleading information and the subjectivity of the technology. Discuss previous research involving GANs and the principles of StyleGAN3.
@@ -62,41 +70,59 @@ Objective of Technology Development and Application: to extract the authenticity
 2.3 GAN Detector: a review of the background of image authenticity discrimination techniques, and the connection with the discriminator of GAN.
 
 3 Methodology
+
 Overview of the research design:
 Aims and Objectives: a brief description of the main aims and objectives of the study, e.g., to assess human judgement of the authenticity of real versus generated images.
 Overall research methodology: an overview of the basic structure of the study, including the design of the experiments, data collection methods, and analysis methods.
 
 3.1 stylegan3: Explain why styleGAN3 was chosen as the image generation tool, including its unique advantages and applicability. Describe in detail the process of generating images using styleGAN3, including the dataset used, model parameters, and the type of images generated.
+
 3.2 Calculating Metrics: Describe how StyleGAN3's discriminator assesses image authenticity and what metrics will be extracted for analysis.
+
 3.3 Human Pilot Study: Describes the procedure for conducting a human pilot study.
+
 3.4 Thematic analyses: outlines the plan for comparing and contrasting human responses with AI assessments, including qualitative and quantitative methods.
 
 4 Implementation 
+
 4.1 Stylegan3's process for extracting data for d
+
 4.2 Calculating metrics: describes how StyleGAN3's discriminators will assess image authenticity and which metrics will be extracted for analysis.
+
 4.3 Table of results
+
 4.4 A short analysis
 
-5. A Project Write Up 
+5. A Project Write Up
+
 Document the experiment from setup to execution, including any challenges faced and how they were overcome.
+
 5.1 Human Pilot Study:
+
 5.1.1 Human Visual Cognition Context
+
 5.1.2 Problem Design.
+
 By observing and evaluating details with reference to previous literature, participants can more accurately judge the authenticity of an image. This approach is not only applicable to traditional portraits, but also to AI-generated images such as StyleGAN3, which allows for a more comprehensive understanding of the differences in human perceptions of the authenticity of different types of images.
 
 5.2 Summary Discussion
 
-
 6 Evaluation and analysis
+
 A detailed description of the methods used to assess human and AI performance, including the statistical analyses used and the assessment criteria.
+
 6.1 Interview three people, detailed interview questions to be defined
+
 6.2 Thematic analysis - several directions
 
 7. Discussion and future work Reflection & shortcomings
+
 Reflect on the findings of the study and discuss their implications for AI and human perception. Acknowledge the limitations of the research and suggest directions for future research.
+
 Analyse the points as directions for specific optimisation of GAN and GAN detectors.
 
 8 Conclusion
+
 Summarise
 
 9. bibliography (citations in Harvard style)
