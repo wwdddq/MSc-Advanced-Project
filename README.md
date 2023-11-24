@@ -18,6 +18,7 @@ This project consists of two parts, the first part is the research question and 
 
 ![MSc-Advanced-Project](https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/qq.png)
 ![MSc-Advanced-Project](https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/ww.png)
+![MSc-Advanced-Project](https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/ee.png)
 
 
 
