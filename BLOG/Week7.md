@@ -1,6 +1,8 @@
 # Week7
 This week's work goal is to read three pieces of literature and write an outline for a paper
 
+and Completion of web page refinement.
+
 ## Literature
 
 ### Landscape Art Image Style Reconstruction Algorithm Based on Machine Learning
