@@ -53,6 +53,3 @@ This led to a preliminary proposal to "mislead" computer vision systems (CNNs) t
 ### Problem:
 I don't know which specific generative adversarial network model to choose for research, and the corresponding detection tools
 
-
-
- Translated with www.DeepL.com/Translator (free version)
