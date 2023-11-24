@@ -1,88 +1,87 @@
 # Week13
-本周是最后一周，在这一周里，我进行了视频内容的思考，确定视频脚本与文案，并进行视频的剪辑和配音。
-同时，对论文和需要上传的所有文件进行整理并上传。
+This week is the final week in which I have been thinking about the content of the video, finalising the video script and copy, and editing and dubbing the video.
+Also, the thesis and all the documents that need to be uploaded were organised and uploaded.
 
-## 视频内容
-项目报告+网站演示+实验过程（访谈实体图像部分+访谈数字图像部分）有趣一点的形式
+## Video content
+Project report + website demo + experimental process (interview physical image part + interview digital image part) Interesting bit of formality
 
-- 题目
+- Title
 
-- 灵感来源：你有没有曾经被AI生成的图片欺骗过？
+- Inspiration: Have you ever been tricked by an AI-generated image?
 
-- 网站视频演示，带领观众跟我一起进入感知迷宫
+- Website video demo to lead the viewer into the perceptual labyrinth with me
   
-- 主题简介和研究目标：图像真实性简介和 GAN 的兴起。
-研究问题：探究人类与生成对抗网络（GAN）在图像真实性感知方面的差异，特别是在艺术类图像真实性感知上的比较。
-研究目标：旨在通过对人类如何感知艺术类图像的研究结果，为科研人员在从人类感知中提取物理世界知识的研究提供方向。
-作品表达：探讨在技术进步不可阻挡的情况下，人类应如何适应和行动。
+- Topic Introduction and Research Objectives: Introduction to image authenticity and the rise of GAN.
+Research Question: To explore the differences between humans and Generative Adversarial Networks (GANs) in the perception of image verisimilitude, with a particular focus on the perception of verisimilitude in artistic images.
+Research Goal: Aims to provide direction for researchers in extracting knowledge of the physical world from human perception through the results of the study of how humans perceive art-based images.
+Expression of the work: to explore how humans should adapt and act in the face of unstoppable technological advances.
 
-- 方法：简要描述研究方法，包括调查和访谈。
+- METHODOLOGY: A brief description of the research methodology, including surveys and interviews.
   
-- GAN 和 StyleGAN3
-说明：解释什么是 GAN 以及 StyleGAN3 的细节。
-视觉效果：展示 GAN 如何工作的图表，来自 StyleGAN3 的示例图像
+- GAN and StyleGAN3
+Description: Explain what a GAN is and the details of StyleGAN3.
+Visuals: Diagrams showing how GANs work, sample images from StyleGAN3
 
-- 定量研究结果
-数据呈现：突出显示调查中的关键数据点。
-视觉效果：访谈实体图像部分，展示调查结果的图形或图表。
+- Quantitative Findings
+Data presentation: highlights key data points from the survey.
+Visuals: graphs or charts showing the results of the survey in the physical image section of the interview.
 
-- 定性见解
-采访亮点：分享采访中富有洞察力的引言或发现。
-视觉效果：访谈数字图像部分，代表受访者的照片或头像、引用设计。
+- Qualitative Insights
+Interview highlights: share insightful quotes or findings from the interview.
+Visuals: digital image portion of the interview representing a photo or headshot of the interviewee, quote design.
 
-- 挑战和未来方向
-讨论：讨论面临的挑战和未来研究的可能性。
-视觉效果：说明性图标或图像，未来潜在的 GAN 应用。
+- Challenges and future directions
+Discussion: Discuss challenges faced and possibilities for future research.
+Visuals: illustrative icons or images, potential future GAN applications.
 
-- 结论
-摘要：总结
-
-
+- Conclusion
+Summary: Summarise
 
 
-### “感知迷宫”
 
-**作品简介**:
-在探索在高级生成对抗网络（GAN）的时代下，图像真实性的概念是如何被重新定义的过程中。此作品是由我论文中用于人物访谈的形式衍生而来的。在此，我希望通过这些互动体验，激发观众对图像真实性的思考，探讨在技术快速发展的背景下，人类应如何适应并采取行动。同时也旨在提醒大众，在面对日益复杂的图像世界时，保持一种批判性和思辨性的思维方式。作品分为两种形式：一部分是实体的印刷图像展示，另一部分则是通过网站小游戏形式的数字图像互动。
-实体印刷图像部分展示由一系列精心挑选的图像构成，旨在挑战观众对真实与虚假的判断。每张图像背后都附有标记，揭示其真伪，提供给观众一个翻阅和自我检验的机会。这不仅是一次视觉体验，也是一次对自我感知和判断的深刻反思。
-数字图像互动部分通过一个创新的网站小游戏，观众被邀请判断一系列图像的真伪。每次选择后，游戏会提供即时反馈，指出选择正确或错误。这个过程不仅是娱乐性的，也反映了人类在当前技术条件下，如何理解和分辨数字图像真实性的能力。
 
-### 视频脚本
+### "Perceptual Maze"
 
-开头
-视觉：画面缓缓推进，展示ss访谈的玩游戏界面。
+**Work description**.
+In the process of exploring how the concept of image authenticity is being redefined in the age of advanced Generative Adversarial Networks (GANs). This work is derived from the form used for character interviews in my thesis. Through these interactive experiences, I hope to stimulate the audience to think about image authenticity, and to explore how human beings should adapt and take action against the backdrop of rapid technological advancement. It also aims to remind the public to maintain a critical and discursive way of thinking in the face of an increasingly complex world of images. The work is divided into two forms: one is a physical display of printed images and the other is an interactive digital image in the form of a website mini-game.
+The physical printed image portion of the display consists of a series of carefully selected images designed to challenge the viewer's judgement of what is real and what is not. Each image is accompanied by a marker on the back that reveals its authenticity, providing the viewer with an opportunity to rummage through and self-check. It is not only a visual experience, but also a profound reflection on self-perception and judgement.
+The interactive section of the digital image is presented through an innovative website mini-game in which the viewer is invited to judge the authenticity of a series of images. After each selection, the game provides instant feedback, pointing out whether the choice was correct or incorrect. The process is not only entertaining, but also reflects on how human beings are able to understand and discern the authenticity of digital images under current technological conditions.
 
-旁白：
-"每天，我们的眼睛和屏幕之间，数不尽的图像在跳跃。但在这个数字时代，哪些是真实的一瞬，哪些是虚构的幻影？"
+### Video Script
 
-研究课题介绍：
-视觉：标题/实验数据集所选的图像/runway生成的视频/访谈玩实体图像的片段
+Beginning
+VISUAL: The screen slowly advances to show the game-playing interface of the ss interview.
 
-旁白：
-"这正是我在研究中探索的问题：人类和机器如何分辨艺术图像的真假？
-我的研究深入探讨了在高级生成对抗网络（GAN）的时代下，图像真实性的新定义。她分为两个部分，一部分是研究课题，另一部分是以艺术形式表现的作品。作品作为研究中人物访谈部分的工具呈现。
+Narrator:
+"Every day, countless images jump between our eyes and the screen. But in this digital age, which are real moments and which are fictional phantoms?"
 
-旁白：
-我使用了StyleGAN3的判别器来分析和解释图像数据，并对人类的图像真实性感知进行了调查和访谈。
-这项研究不仅探索了人类和生成对抗网络（GAN）在辨别艺术类图像真实性方面的感知差异，而且还揭示了人类在面对技术进步时如何调整自己的感知和判断标准。
+Research topic description:
+VISUAL: Captions / images selected for the experimental dataset / runway-generated videos / interviews playing with snippets of physical images
 
-技术方法和发现：
-视觉：录屏跑GAN的代码，200张图片展示
+Narrator:
+"This is exactly the question I am exploring in my research: how do humans and machines distinguish between real and fake art images?
+My research delves into a new definition of image authenticity in the age of advanced Generative Adversarial Networks (GANs). She is divided into two parts, one of which is the research question and the other is the artwork in the form of art. The artwork is presented as a tool for the character interview part of the research.
 
-旁白：
-在我的研究中，我探索了StyleGAN3的判别器在评估图像真实性时的行为，发现其输出评分与预期不同。通过对不同数据集的深入分析，我建立了一个评分阈值，有效区分了生成的图像与真实的艺术作品。
-在这200张图像中，我从中挑选了10张图像作为实验样本。
+Narrator:
+I used StyleGAN3 discriminators to analyse and interpret image data, and conducted surveys and interviews on human perceptions of image authenticity.
+This study not only explores the perceptual differences between humans and Generative Adversarial Networks (GANs) in discriminating the authenticity of art-based images, but also sheds light on how humans adapt their perceptions and judgement criteria in the face of technological advances.
 
-网站小游戏的作品介绍：
-视觉：展示我玩网站小游戏
+Technical approach and findings:
+Visual: Recorded screen run of GAN's code, 200 images shown
 
-旁白：
-"在进行人物访谈时，我制作了一个小游戏。游戏中，人们会遇到一系列的图像，挑战你的直觉——这是真的，还是生成的？"
+Narrator:
+In my research, I explored the behaviour of StyleGAN3's discriminator when evaluating image veracity and found that its output scores were different than expected. Through in-depth analyses of different datasets, I established a scoring threshold that effectively distinguishes the generated images from authentic artworks.
+Out of these 200 images, I selected 10 images as a sample for the experiment.
 
-结尾
-视觉：？
+Presentation of the artwork for the website mini-game:
+VISUAL: Showing me playing the website trivia game
 
-旁白：
-本研究和作品试图激发人们对图像真实性的深思，同时探讨在技术迅速进步的背景下，人类该如何应对和适应。
-作品部分更是一个提醒，鼓励大众在面对日益复杂的图像世界时，保持批判性和思辨性的思维方式。
+Narrator:
+"While conducting character interviews, I created a mini-game. The game involves people encountering a series of images that challenge your intuition - is this real, or is it generated?"
 
+Ending
+Visual:?
+
+Narrator:
+This research and work seeks to stimulate deeper reflection on the authenticity of images, as well as to explore how humans should respond and adapt in the context of rapid technological advances.
+The work is in part more of a reminder to encourage the public to maintain a critical and discursive mindset in the face of an increasingly complex world of images.
