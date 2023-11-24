@@ -24,6 +24,4 @@
 
 我从表格中提取出了20张图片。这20张图片分别有10张原本是真实的，10张原本是生成的。10张真实的图像中，有五张是机器认为假的图像。而10张生成的图像中，也有五张是机器认为真实的图像。
 
-
-
-我的实验结果也验证了这一点。因此，我选择了metfaces数据集进行深入分析，原因是该数据集为Nvidia官方发布，且其艺术类人物肖像画在一定程度上代表了人脸，对结果的影响较小。
+![MSc-Advanced-Project](https://github.com/wwdddq/MSc-Advanced-Project/blob/main/BLOG/img/paper_img.001.jpeg)
