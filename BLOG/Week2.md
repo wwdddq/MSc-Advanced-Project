@@ -1,108 +1,115 @@
 # Week2
-本周进行了一些初步想法的深化，以及技术上的学习
+This week was spent deepening some initial ideas and learning about technology
 
 ## Tech
 - https://levelup.gitconnected.com/training-a-stylegan3-in-colab-gan-create-nft-6dd119774644
 - https://blog.paperspace.com/stylegan3-gradient-notebooks/
-- 尝试跑StyleGAN3，但是没有成功
+- Tried to run StyleGAN3, but it didn't work!
 
 ## Literatures
-看了几篇文献
+Looked at some literature
 
-### Learning to See: You Are What You See (学会看见：你就是你所看见的) 
+### Learning to See: You Are What You See 
 
-论文简要 :
+Paper brief .
 
-本文介绍了一种视觉工具，用于探索人工神经网络中的偏见，并提供了对特定训练的现实世界表示进行操作的机制。该工具可以实时探索和操作这些表示，并以特定的创造性视角反思人工神经网络和人类构建意义的关系。
+This paper describes a visual tool for exploring bias in artificial neural networks and provides mechanisms for manipulating real-world representations of specific training. The tool explores and manipulates these representations in real time and reflects on the relationship between artificial neural networks and human-constructed meaning with a specific creative perspective.
 
-论文背景: 本研究旨在使用卷积人工神经网络作为我们自身自我肯定的认知偏见的反思，通过暴露和放大人工神经网络中的学习偏见，展示训练数据对模型预测的重要性。
+Background: The aim of this study is to use convolutional artificial neural networks as a reflection of our own self-affirming cognitive biases, demonstrating the importance of training data for model prediction by exposing and amplifying learning biases in artificial neural networks.
 
-过去方案: 过去的研究方法没有提供实时、可交互的系统来进行创造性表达，并且缺乏对深度学习系统作为人机协作工具或仪器潜力的关注。
+Past Programme: Past research approaches have not provided real-time, interactive systems for creative expression and have lacked attention to the potential of deep learning systems as tools or instruments for human-computer collaboration.
 
-论文的Motivation: 本研究的动机是通过创建视觉工具，实现实时、可交互的系统，以实现创造性表达，并使人类能够对生成的深度神经网络进行连续、有意义的控制。通过使用深度学习技术，作者希望探索深度学习在视觉工具领域的潜力，并填补当前研究中的空白。
+Thesis Motivation: The motivation for this research is to enable real-time, interactive systems for creative expression by creating visual tools and enabling humans to have continuous, meaningful control over the generated deep neural networks. By using deep learning techniques, the authors hope to explore the potential of deep learning in the field of visual tools and fill the gaps in current research.
 
-方法:
+Methods.
 
-a. 理论背景:
+a. Theoretical Background.
 
-作者开发了一种名为“Learning to See”的视觉工具，用于探索人工神经网络中的偏见。该工具使用人工神经网络对实时摄像头输入进行预测，实现了实时探索和操纵表示的功能。作者使用该工具创建了交互式装置和视频作品。他们强调在开发用于创造性表达的生成式深度神经网络时，持续而有意义的人类控制的重要性。
+The authors developed a vision tool called "Learning to See" to explore bias in artificial neural networks. The tool uses artificial neural networks to predict real-time camera inputs, enabling real-time exploration and manipulation of representations. The authors used the tool to create interactive installations and video works. They emphasise the importance of continuous and meaningful human control when developing generative deep neural networks for creative expression.
 
-b. 技术路线:
+b. Technical Track.
 
-作者使用基于pix2pix的网络架构进行成对图像转换。他们修改了这个架构，以产生更高分辨率的图像，并允许实时操纵参数。与传统的pix2pix不同，他们只提供目标图像进行训练，并使用预处理转换来即时计算输入图像。他们还在训练过程中使用数据增强来鼓励网络进行泛化而不是记忆数据。网络以批量大小为4进行了500,000次迭代的训练。
+The authors used a pix2pix-based network architecture for pairwise image transformation. They modified this architecture to produce higher resolution images and allow real-time manipulation of parameters. Unlike traditional pix2pix, they provide only the target image for training and use preprocessing transformations to compute the input image on-the-fly. They also used data augmentation during training to encourage the network to generalise rather than memorise data. The network was trained with a batch size of 4 for 500,000 iterations.
 
-结果:
+Results.
 
-a. 详细的实验设置:
+a. Detailed Experimental Setup.
 
-作者描述的方法涉及训练神经网络从模糊、抽象、灰色的输入图像中重建逼真的图像。网络使用各种操作符进行训练，这些操作符具有随机变化的参数，例如将目标图像缩放到期望图像大小的100%至130%之间的随机大小，随机裁剪，水平和/或垂直翻转，转换为灰度图像，使用滤波进行降采样和上采样，以及应用随机亮度和对比度调整。网络从大型图像数据集中学习，使其能够捕捉整个数据集中的丰富表示和细节。在推理过程中，使用相同的预处理图将摄像头输入预处理为模糊、抽象、灰色图像，并使用学习到的特征重建逼真的图像。
+The methodology described by the authors involves training a neural network to reconstruct realistic images from fuzzy, abstract, grey input images. The network is trained using a variety of operators with randomly varying parameters, such as scaling the target image to a random size between 100% and 130% of the desired image size, random cropping, horizontal and/or vertical flipping, converting to greyscale images, downsampling and upsampling using filtering, and applying random brightness and contrast adjustments. The network learns from large image datasets, allowing it to capture rich representations and details across the entire dataset. During inference, the camera input is preprocessed into a blurry, abstract, grey image using the same preprocessing map and the learned features are used to reconstruct a realistic image.
 
-b. 详细的实验结果:
+b. Detailed experimental results.
 
-该方法与神经风格迁移不同，它产生的是一个预测模型，而不是优化输出图像。这使得实时处理成为可能。该方法还与使用多个参考风格图像的较新风格迁移方法不同，因为它结合了整个数据集的知识，并且不需要手动混合权重。作者认为深度学习在各个领域都具有重要潜力，包括在实时连续的方式下帮助产生创造性输出。他们还强调了理解训练数据分布对神经网络预测的影响的重要性。此外，他们强调需要对人工神经网络和人类观点可能存在的偏见保持敏感。
+The method differs from neural style migration in that it produces a predictive model rather than optimising the output image. This makes real-time processing possible. The method also differs from newer style migration methods that use multiple reference style images because it combines knowledge from the entire dataset and does not require manual blending of weights. The authors believe that deep learning has significant potential in a variety of areas, including helping to produce creative output in a real-time continuous manner. They also emphasise the importance of understanding the impact of training data distribution on neural network predictions. In addition, they emphasise the need to be sensitive to possible biases in artificial neural networks and human perspectives.
 
 ### Trust It or Not: Effects of Machine-Learning Warnings in Helping Individuals Mitigate Misinformation
 
-**主要见解**：
-警告对假新闻检测的影响： 与机器学习警告相比，事实核查警告提高了假新闻的检测率。机器学习图表警告提高了区分假新闻和真新闻的灵敏度，但并不一定会提高信任度。
+**Key Insights**:
+Effects of Warnings on Fake News Detection: Fact-checking warnings improve the detection rate of fake news compared to machine-learning warnings. Machine learning graph warnings improve the sensitivity of distinguishing fake news from real news, but do not necessarily improve trust.
 
-假新闻的计算检测： 计算方法侧重于分析假新闻检测的文本和多模态特征。
+Computational detection of fake news: Computational approaches focus on analysing textual and multimodal features for fake news detection.
 
-信号检测理论（SDT）应用***： 利用 SDT 了解个人对假新闻的检测反应，测量他们的敏感性和偏见。
+Signal Detection Theory (SDT) Application***: SDT was used to understand individuals' reactions to fake news detection, measuring their sensitivity and bias.
 
-机器学习警告实验： 进行了两项实验，以评估机器学习警告对个人识别、检测以及分享假新闻和真新闻的意愿的影响。
+Machine Learning Warning Experiments: Two experiments were conducted to assess the impact of machine learning warnings on individuals' willingness to recognise, detect, and share fake and real news.
 
-分享决定： 参与者普遍对分享新闻持谨慎态度，与真实新闻相比，他们更倾向于分享假新闻。
+Sharing decisions: Participants were generally wary of sharing news and were more likely to share fake news than real news.
 
-警告的影响： 当包含新闻来源时，事实核查警告会影响参与者的决定，但当排除新闻来源时，这种影响就消失了。
+Impact of warnings: Fact-checking warnings influenced participants' decisions when news sources were included, but disappeared when news sources were excluded.
 
 ### The role of artificial intelligence in disinformation
 
-要点：
-人工智能在虚假信息中的作用：人工智能系统在创造逼真的虚假内容和传播虚假信息方面都发挥着重要作用。
-深度伪造：人工智能技术，尤其是深度学习和广义运算网络（GANs），为深度伪造的创建提供了便利，极大地影响了内容的真实性。
-传播技术：人工智能驱动的微定位和社交机器人有效传播虚假信息，操纵网络言论和公众舆论。
-伦理影响：在虚假信息中使用人工智能会引发伦理问题，对人类尊严、自主、民主与和平构成挑战。
-检测技术：为检测虚假信息开发了多种人工智能技术，但由于需要大量标注数据集以及这些数据集存在偏差，其有效性受到限制。
-定义虚假信息的挑战：区分错误信息和虚假信息非常复杂，因为分享者的意图是一个关键因素。
-透明度和可解释性：人工智能系统对内容的监管缺乏清晰度和透明度，这可能会导致对内容的过度审查。
-过度审查的风险：人工智能系统检测虚假信息可能会导致假阳性和假阴性的过度审查，影响表达自由。
+The gist:
+The role of artificial intelligence in disinformation: artificial intelligence systems play an important role in both the creation of realistic disinformation content and the dissemination of disinformation.
+
+Deep forgery: AI technologies, especially deep learning and generalised arithmetic networks (GANs), facilitate the creation of deep forgeries that greatly affect the authenticity of content.
+
+Dissemination techniques: AI-powered micro-locations and social bots effectively disseminate disinformation and manipulate online discourse and public opinion.
+
+Ethical implications: the use of AI in disinformation raises ethical issues that challenge human dignity, autonomy, democracy and peace.
+
+Detection techniques: Various AI techniques have been developed to detect disinformation, but their effectiveness is limited by the large number of labelled datasets required and the biases in these datasets.
+
+Challenges in defining disinformation: Distinguishing between misinformation and disinformation is complex, as the intent of the sharer is a key factor.
+
+Transparency and Interpretability: AI systems lack clarity and transparency in policing content, which can lead to over-censorship of content.
+
+Risk of over-censorship: detection of false information by AI systems may lead to over-censorship of false positives and false negatives, affecting freedom of expression.
 
 ### Explaining and Harnessing Adversarial Examples
 
-简介：讨论了若干机器学习模型（包括最先进的神经网络）易受对抗性示例影响的发现。提出这种脆弱性的主要原因是这些模型的线性性质。
+Synopsis: Discusses the finding that several machine learning models, including state-of-the-art neural networks, are vulnerable to adversarial examples. The main reason for this vulnerability is proposed to be the linear nature of these models.
 
-相关工作：回顾以往证明神经网络各种特性及其易受对抗性示例影响的研究。探讨现有模型在脆弱性方面的局限性。
+RELATED WORK: Reviews previous research demonstrating various properties of neural networks and their vulnerability to adversarial examples. Explore the limitations of existing models in terms of their vulnerability.
 
-对抗性示例的线性解释：详细解释为什么线性模型尽管简单，却容易受到对抗性示例的影响。讨论高维空间和线性如何导致这种脆弱性。
+Linear explanations for adversarial examples: explain in detail why linear models, despite their simplicity, are vulnerable to adversarial examples. Discusses how higher dimensional spaces and linearity contribute to this vulnerability.
 
-非线性模型的线性扰动：探讨神经网络过于线性而无法抵御线性对抗扰动的假设。讨论神经网络的设计及其固有的线性。
+Linear perturbations in non-linear models: explores the hypothesis that neural networks are too linear to resist linear adversarial perturbations. Discusses the design of neural networks and their inherent linearity.
 
-线性模型的对抗训练与权重衰减：以逻辑回归为背景，比较对抗训练与权重衰减。分析如何生成对抗范例及其对简单线性模型的影响。
+Adversarial training and weight decay for linear models: compare adversarial training and weight decay in the context of logistic regression. Analyses how adversarial examples are generated and their implications for simple linear models.
 
-深度网络的对抗训练：探讨对抗训练提高深度神经网络鲁棒性的潜力。讨论这种方法在增强模型抵御对抗性扰动方面的有效性。
+Adversarial training for deep networks: explores the potential of adversarial training to improve the robustness of deep neural networks. Discusses the effectiveness of this approach in enhancing the model against adversarial perturbations.
 
-不同类型的模型能力：研究对抗性实例如何挑战我们对高维空间和模型容量的直觉。探讨不同模型（如 RBF 网络）对对抗性示例的抵抗力。
+Different types of model capacity: examine how adversarial instances challenge our intuitions about high-dimensional spaces and model capacity. Explore the resistance of different models (e.g. RBF networks) to adversarial examples.
 
-对抗性示例的泛化：研究为什么对抗性示例会在不同模型中泛化。基于模型的线性性质，提出对这一现象的解释。
+Generalisation of adversarial examples: investigate why adversarial examples generalise across different models. Propose an explanation for this phenomenon based on the linear nature of the models.
 
-其他假设：考虑并反驳关于对抗性范例存在的其他假设。讨论生成式训练和模型集合在抵御对抗性示例方面的潜在作用。
+Alternative hypotheses: consider and refute alternative hypotheses about the existence of adversarial examples. Discuss the potential role of generative training and model ensembles in resisting adversarial examples.
 
-总结与讨论：总结本文的主要发现和观点。讨论这些发现对机器学习模型的设计和训练的影响。
+Summary and Discussion: summarise the key findings and observations of this paper. Discuss the implications of these findings for the design and training of machine learning models.
 
-## 项目进展
+## Project Progress.
 
-和导师开会后的项目初步方向
+Initial project direction after meeting with mentor
 
-“人评判图像真实性的标准，与机器的差别”
+"Criteria by which a human judges the authenticity of an image, versus a machine"
 
-利用GAN自己的机制来表达误导的主题 - 生成器和判别器
+Using GAN's own mechanisms to represent the subject of misrepresentation - generators and discriminators
 
-GAN判别器算的数据 - 如何来判断生成图像的真实性
+Data counted by GAN discriminators - how to judge the authenticity of generated images
 
-实践实验 - human subject study - 人如何生成图像判断生成图像的真实性
+Hands-on experiments - human subject study - how a human generates an image to judge the veracity of the generated image
 
-对比人给出的表述或回答和机器算的数据（d给出的数据），差异在哪 - 感知差异
+Comparing human given representations or answers with machine computed data (data given by d), what are the differences - Perceptual differences
 
-Thematic analysis - 共性引出未来讨论的观点
+Thematic analysis - commonalities leading to ideas for future discussion
 
